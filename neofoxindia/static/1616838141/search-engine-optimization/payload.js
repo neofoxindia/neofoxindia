@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search-engine-optimization", {data:[{}],fetch:{},mutations:void 0});

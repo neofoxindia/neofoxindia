@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/artificial-intelligent", {data:[{}],fetch:{},mutations:void 0});
