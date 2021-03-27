@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a,b){return {staticAssetsBase:"\u002Fneofoxindia\u002Fstatic\u002F1616838771",layout:"default",error:a,serverRendered:true,routePath:b,config:{app:{basePath:b,assetsPath:"\u002Fneofoxindia\u002F",cdnURL:a}}}}(null,"\u002F"));
